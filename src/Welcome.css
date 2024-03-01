@@ -1,0 +1,8 @@
+div#welcome-page {
+    padding: 16px;
+}
+
+div#welcome-heading {
+    font-size: 32px;
+    font-weight: bold;
+}

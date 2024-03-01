@@ -1,0 +1,14 @@
+div#products-page {
+    padding: 16px;
+}
+
+div#products-heading {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+div[id^='product-'] {
+    border-bottom: 1px solid black;
+    padding-bottom: 16px;
+    width: 25%;
+}
